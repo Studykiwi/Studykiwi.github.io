@@ -257,4 +257,38 @@ nav {
     color: black;
 }
 
+/* Style for the footer section */
+footer {
+    background-color: #333; /* Background color of the footer */
+    color: #fff; /* Text color */
+    display: flex; /* Use flexbox to align links */
+    justify-content: space-between; /* Space links apart */
+    align-items: center; /* Center vertically */
+    position: relative; /* Position the footer absolutely */
+    bottom: 0; /* Stick it to the bottom of the viewport */
+    width: 100%; /* Full width */
+    margin: 0 auto; /* Center the footer horizontally */
+    padding: 25px 0;
+}
+
+/* Style for the left link */
+.left-link p {
+    text-decoration: none;
+    color: #fff !important; /* Force white text color */
+    padding-left:20px;
+    margin:0;
+}
+
+/* Style for the right link */
+.right-link a {
+    color: #fff !important; /* Force white text color */
+    padding:20px;
+}
+
+/* Change text color on hover */
+.left-link a:hover,
+.right-link a:hover {
+    color: #ddd;
+    text-decoration: none;
+}
 
