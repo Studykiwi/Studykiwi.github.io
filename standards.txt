@@ -1,0 +1,37 @@
+
+level 1 phys/sci
+mechanics - 90940
+electricity and magnetism - 90937
+
+carbon chem - 90932
+
+acids and bases - 90944
+genetics - 90948
+
+------
+level 2 physics
+waves - 91170
+mechanics - 91171
+elec - 91173
+
+chem
+bonding -91164
+organics - 91165
+chemical reactivity - 91166
+
+Biology 
+life processes - 91156
+genes - 91157
+gene expression - 91159
+
+----
+level 3
+
+biology
+speciation
+plant and anial
+
+chemistry
+thermochem
+aqueous
+organics
