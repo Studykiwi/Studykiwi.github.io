@@ -112,8 +112,8 @@ nav {
 
 @media screen and (max-width: 767px) {
     #studykiwilogobig {
-        height: auto;
-        width: 100%; /* Make the image width 100% to fit the screen */
+        display: none;
+        /* width: 90vw; /* Make the image width 100% to fit the screen */
     }
 }
 
