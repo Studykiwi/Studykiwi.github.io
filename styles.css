@@ -111,7 +111,7 @@ nav {
     padding: 0;
 
     @media (max-width: 768px) {
-        gap: 5px;    
+        gap: 2vw;    
     }
 }
 
@@ -126,7 +126,7 @@ nav {
     display: block;
     transition: background-color 0.3s ease;
     @media (max-width: 768px) {
-        padding: 10px 5px;
+        padding: 10px 0.1vw;
     }
 }
 
