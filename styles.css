@@ -46,6 +46,14 @@ nav {
     }
 }
 
+@media screen and (max-width: 767px) {
+    /* Reduce the width between buttons */
+    .menu li {
+        margin: 5px auto; /* Adjust the margin as needed */
+        font-size: 14px !important; /* Reduce font size */
+    }
+}
+
 .subject-button {
     text-align: left;
     display: block;
@@ -115,7 +123,7 @@ nav {
     padding: 0;
 
     @media screen and (max-width: 1199px) {
-        gap: 1vw;    
+        gap: 2vw;    
     }
 }
 
