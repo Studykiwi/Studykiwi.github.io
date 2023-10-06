@@ -32,7 +32,7 @@ nav {
     align-items: center;
     margin: 0;
     padding: 0 20px;
-    @media (max-width: 768px) {
+    @media screen and (max-width: 1199px) {
         padding: 0 10px;
     }
 }
@@ -110,7 +110,7 @@ nav {
     margin: 0;
     padding: 0;
 
-    @media (max-width: 768px) {
+    @media screen and (max-width: 1199px) {
         gap: 1vw;    
     }
 }
@@ -125,7 +125,7 @@ nav {
     padding: 10px 15px;
     display: block;
     transition: background-color 0.3s ease;
-    @media (max-width: 768px) {
+    @media screen and (max-width: 1199px) {
         padding: 10px 0.1vw;
     }
 }
