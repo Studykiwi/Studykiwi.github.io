@@ -110,11 +110,12 @@ nav {
     margin: 0;
   }
 
-  @media (min-width: 70vh) {
-    img {
-      width: 90vw;
+@media screen and (max-width: 767px) {
+    #studykiwilogobig {
+        height: auto;
+        width: 100%; /* Make the image width 100% to fit the screen */
     }
-  }
+}
 
 .menu {
     display: flex;
@@ -123,7 +124,7 @@ nav {
     padding: 0;
 
     @media screen and (max-width: 1199px) {
-        gap: 5px;    
+        gap: 10px;    
     }
 }
 
