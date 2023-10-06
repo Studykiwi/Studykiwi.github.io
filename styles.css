@@ -111,7 +111,7 @@ nav {
     padding: 0;
 
     @media (max-width: 768px) {
-        gap: 2vw;    
+        gap: 1vw;    
     }
 }
 
