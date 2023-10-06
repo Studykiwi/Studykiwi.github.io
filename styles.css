@@ -45,19 +45,19 @@ nav {
         padding: 10px 0 5px 0;
     }*/
 }
-
+/*
 @media screen and (max-width: 767px) {
-    /* Reduce the width between buttons */
+    /* Reduce the width between buttons /
     .menu {
-        margin: 0px; /* Adjust the margin as needed */
+        margin: 0px; /* Adjust the margin as needed /
         padding: 0;
-        font-size: 14px !important; /* Reduce font size */
+        font-size: 14px !important; /* Reduce font size /
     }
 
     nav {
         overflow: wrap;
     }
-}
+}*/
 
 .subject-button {
     text-align: left;

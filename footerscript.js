@@ -12,3 +12,4 @@ function adjustFooterPosition() {
 
 window.addEventListener('DOMContentLoaded', adjustFooterPosition);
 window.addEventListener('resize', adjustFooterPosition);
+
