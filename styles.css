@@ -235,7 +235,7 @@ nav {
 
 .content {
     margin-left: 250px; /* Adjust the margin to create space for the left panel */
-    padding: 20px;
+    padding: 20px 0 20px 20px;
     float: left; /* Float content to the left for wider screens */
     width: 75%;
     transition: 0.3s ease;
@@ -352,6 +352,16 @@ nav {
     background: none;
     border: none;
     color: black;
+}
+
+@media (max-width: 767px) {
+    .left-panel {
+        display: none;
+    }
+    .content {
+        margin-left: 0 !important;
+        width: 100%;
+    }
 }
 
 /* Style for the footer section */
