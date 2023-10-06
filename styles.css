@@ -40,10 +40,10 @@ nav {
 .logo img {
     height: 70px;
     width: auto;
-    @media (max-width: 767px) {
+    /*@media (max-width: 767px) {
         height: 50px;
         padding: 10px 0 5px 0;
-    }
+    }*/
 }
 
 @media screen and (max-width: 767px) {
