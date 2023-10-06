@@ -40,7 +40,7 @@ nav {
 .logo img {
     height: 70px;
     width: auto;
-    @media (max-width: 370px) {
+    @media (max-width: 767px) {
         height: 60px;
         padding: 10px 0 5px 0;
     }
