@@ -117,6 +117,7 @@ function generateSections(sectionsData) {
             const link = document.createElement('a');
             link.href = linkData.url;
             link.textContent = linkData.title;
+            link.target = '_blank'; // Add target attribute
             linkTitle.appendChild(link);
 
             const linkSummary = document.createElement('p');
