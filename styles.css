@@ -108,6 +108,12 @@ nav {
 #calc:hover {
     background-color: #1d5fe5;
 }
+#eng {
+    background-color: #a333ff;
+}
+#eng:hover {
+    background-color: #7407cd;
+}
 
 #studykiwilogobig {
     height: 70vh;

@@ -3,14 +3,12 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Biology Home Page</title>
-    <link rel="stylesheet" href="../styles.css"> 
-    <link rel="stylesheet" href="../subjecthomepages.css">
+    <title>English Resources</title>
+    <link rel="stylesheet" href="../styles.css">
 
     <!-- Initialise Ad Sense -->
     <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3991511202361423"
      crossorigin="anonymous"></script>
-
 </head>
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-B7WF9JSRV3"></script>
@@ -21,6 +19,7 @@
 
   gtag('config', 'G-B7WF9JSRV3');
 </script>
+
 <body>
     <header>
         <nav>
@@ -43,32 +42,29 @@
     </header>
 
     <main>
-        <h1>Biology Home Page</h1>
-        <img class="subject-icon" src="biology.jpg" style="width: auto; max-height: 30vh;">
+        <br>
+        <div class="center-title">
+            <h1>English Resources</h1>
+        </div>
 
-        <section>
-            <h2>Level 1 Biology</h2>
+        <div class="left-panel">
+            <button class="toggle-button" style="margin-bottom:30px;">&#9776;</button>
             <ul>
-                <li><a href="level1/l1genetics.html">Genetic Variation</a></li>
+                <li><a class="leftnavlinks" href="#all-levels">All Levels</a></li>
+                <li><a class="leftnavlinks" href="#level1">level 1</a></li>
+                <li><a class="leftnavlinks" href="#level2">Level 2</a></li>
+                <li><a class="leftnavlinks" href="#level3">Level 3</a></li>
+                <li><a class="leftnavlinks" href="#scholarship">Scholarship</a></li>
             </ul>
-        </section>
+        </div>
 
-        <section>
-            <h2>Level 2 Biology</h2>
-            <ul>
-                <li><a href="level2/l2geneexpression.html">Gene Expression</a></li>
-                <li><a href="level2/l2gvac.html">Genetic Variation and Change</a></li>
-                <li><a href="level2/l2lifeprocesses.html">Life Processes at the Cellular Level</a></li>
-            </ul>
-        </section>
-
-        <section>
-            <h2>Level 3 Biology</h2>
-            <ul>
-                <li><a href="level3/l3speciation.html">Speciation</a></li>
-                <li><a href="level3/l3plantandanimal.html">Plant and Animal Responses</a></li>
-            </ul>
-        </section>
+        <div class="content">
+            <section id="all-levels"></section>
+            <section id="level1"></section>
+            <section id="level2"></section>
+            <section id="level3"></section>
+            <section id="scholarship"></section>
+        </div>
     </main>
     <footer>
         <div class="left-link">
@@ -80,5 +76,7 @@
     </footer>
     <script src="../footerscript.js"></script>
 
+    <script src="english.js"></script>
+    <script src="../notespagescript.js"></script>
 </body>
 </html>
