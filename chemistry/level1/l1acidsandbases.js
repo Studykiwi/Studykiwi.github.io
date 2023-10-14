@@ -122,7 +122,14 @@ const sectionsData = [
                 url: "https://studytime.co.nz/wp-content/uploads/2021/02/Level1-Science-Strategy-Guide-Acids-and-Bases.pdf",
                 title: "StudyTime Concepts and Strategy Checklist",
                 summary: "Notes covering the exam topics and strategy for doing well"
-            }
+            },
+            {
+                imageSrc: "../../static/logos/studytime.png",
+                url: "https://www.youtube.com/watch?v=MWBfH67dje0&amp;width=1280&amp;height=720?width=1263?height=710",
+                title: "StudyTime Concepts and Strategy Video",
+                summary: "Video covering the exam topics and strategy for doing well",
+                extraLinks: []
+            },
         ]
     }
 ];

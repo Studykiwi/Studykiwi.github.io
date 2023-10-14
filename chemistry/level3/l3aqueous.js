@@ -156,6 +156,13 @@ const sectionsData = [
                 extraLinks: []
             },
             {
+                imageSrc: "../../static/logos/studytime.png",
+                url: "https://www.youtube.com/watch?v=EzAX82IfIBE&amp;width=1280&amp;height=720?width=1263?height=710",
+                title: "StudyTime outline video",
+                summary: "Video covering the exam topics and how achieve good results in it",
+                extraLinks: []
+            },
+            {
                 imageSrc: "../../static/logos/nbts.png",
                 url: "https://www.nobraintoosmall.co.nz/students/chemistry/NCEA_Level3/pdfs/che_91392_outline.pdf#zoom=100",
                 title: "Aqueous Checklist (NBTS)",

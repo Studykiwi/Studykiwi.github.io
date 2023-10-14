@@ -140,7 +140,14 @@ const sectionsData = [
                 url: "https://studytime.co.nz/level2-chemistry-strategy-guide-organic-chemistry/",
                 title: "StudyTime Concepts and Strategy Checklist",
                 summary: "Notes covering the exam topics and strategy for doing well"
-            }
+            },
+            {
+                imageSrc: "../../static/logos/studytime.png",
+                url: "https://www.youtube.com/watch?v=6N-Bza42vxw&amp;width=1280&amp;height=720?width=1263?height=710",
+                title: "StudyTime Concepts and Strategy Video",
+                summary: "Video covering the exam topics and strategy for doing well",
+                extraLinks: []
+            },
         ]
     }
 ];

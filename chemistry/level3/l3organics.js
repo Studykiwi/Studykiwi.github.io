@@ -181,6 +181,13 @@ const sectionsData = [
             },
             {
                 imageSrc: "../../static/logos/studytime.png",
+                url: "https://www.youtube.com/watch?v=Df2GsoU9xuw&amp;width=1280&amp;height=720?width=1263?height=710",
+                title: "StudyTime outline video",
+                summary: "Video covering the exam topics and how achieve good results in it",
+                extraLinks: []
+            },
+            {
+                imageSrc: "../../static/logos/studytime.png",
                 url: "https://studytime.co.nz/wp-content/uploads/2021/02/Level3-Chemistry-Checklist-Organic-Compounds.pdf",
                 title: "Organics Checklist - Part 2 (Studytime)",
                 summary: "A checklist to tick off what you know and what else needs to be revised",

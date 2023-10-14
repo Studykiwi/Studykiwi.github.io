@@ -151,6 +151,13 @@ const sectionsData = [
                 extraLinks: []
             },
             {
+                imageSrc: "../../static/logos/studytime.png",
+                url: "https://www.youtube.com/watch?v=T1Jz8nYzWVo&amp;width=1280&amp;height=720?width=1263?height=710",
+                title: "StudyTime Concepts and Strategy Video",
+                summary: "Video covering the exam topics and strategy for doing well",
+                extraLinks: []
+            },
+            {
                 imageSrc: "../../static/logos/nbts.png",
                 url: "https://www.nobraintoosmall.co.nz/students/chemistry/NCEA_Level3/pdfs/che_91390_outline.pdf#zoom=100",
                 title: "NBTS Checklist",
