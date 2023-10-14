@@ -1,4 +1,4 @@
-nst sectionsData = [
+sectionsData = [
     {
         id: "notes",
         title: "Notes",
@@ -157,7 +157,7 @@ nst sectionsData = [
             }
         ]
     }
-];co
+];
 
 function generateSections(sectionsData) {
     sectionsData.forEach(section => {
