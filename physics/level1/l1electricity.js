@@ -12,7 +12,7 @@ const sectionsData = [
             },
             {
                 imageSrc: "../../static/logos/gzscience.png",
-                url: "http://gzscienceclassonline.weebly.com/uploads/1/1/3/6/11360172/physics_1.3_electromagnetism_2013.pptx",
+                url: "http://gzscienceclassonline.weebly.com/p13-electromagnetism.html",
                 title: "GZ Science Notes",
                 summary: "Full notes, with extra strategies for answering questions",
                 extraLinks: []
